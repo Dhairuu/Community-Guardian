@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+chroma_db/
+*.db
+.DS_Store
+node_modules/
+dist/
+.vite/
+venv/
+*.png
+ARCHITECTURE.md

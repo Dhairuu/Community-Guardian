@@ -1,0 +1,168 @@
+{
+  "status": "ok",
+  "totalResults": 18,
+  "articles": [
+    {
+      "source": {"id": "ndtv", "name": "NDTV"},
+      "author": "Security Desk",
+      "title": "UPI Fraud Ring Busted in Bengaluru, 200 Victims Identified",
+      "description": "Bengaluru police arrested 5 members of a UPI fraud ring operating across Koramangala and HSR Layout.",
+      "url": "https://example.com/upi-fraud-bengaluru",
+      "publishedAt": "2026-03-18T10:30:00Z",
+      "content": "Bengaluru police have dismantled a sophisticated UPI fraud network that targeted over 200 victims across Koramangala and HSR Layout. The gang used fake collect requests disguised as cashback refunds. Victims approved the requests thinking they were receiving money, but were actually authorizing debits from their accounts. Total losses are estimated at Rs 45 lakh. Police urge citizens to never approve unsolicited UPI collect requests."
+    },
+    {
+      "source": {"id": "the-times-of-india", "name": "Times of India"},
+      "author": "Tech Bureau",
+      "title": "Fake KYC Update Scam Targets HDFC and SBI Customers in Bengaluru",
+      "description": "Customers receiving SMS claiming KYC expiry with link to fake banking portal.",
+      "url": "https://example.com/kyc-scam-bengaluru",
+      "publishedAt": "2026-03-17T14:15:00Z",
+      "content": "A wave of fake KYC update messages is targeting HDFC and SBI customers in Bengaluru. The SMS claims that the customer's KYC has expired and provides a link to update details. The link leads to a convincing replica of the bank's website that captures login credentials and OTP. HDFC Bank has issued an advisory stating they never send KYC update links via SMS. Affected customers should report to cybercrime.gov.in immediately."
+    },
+    {
+      "source": {"id": "indian-express", "name": "Indian Express"},
+      "author": "City Desk",
+      "title": "Data Breach at Bengaluru-Based Health Tech Startup Exposes 50,000 Patient Records",
+      "description": "A major data breach at MediTrack has exposed sensitive health records including Aadhaar numbers.",
+      "url": "https://example.com/meditrack-breach",
+      "publishedAt": "2026-03-19T06:00:00Z",
+      "content": "Bengaluru-based health tech startup MediTrack has confirmed a data breach affecting approximately 50,000 patient records. Exposed data includes names, phone numbers, Aadhaar numbers, and medical histories. CERT-In has been notified and is investigating. The breach was discovered when researchers found a publicly accessible database on the dark web. MediTrack is urging affected users to monitor their financial accounts and change passwords for any services using the same credentials."
+    },
+    {
+      "source": {"id": "deccan-herald", "name": "Deccan Herald"},
+      "author": "Crime Desk",
+      "title": "ATM Card Skimming Devices Found at Three Bengaluru Locations",
+      "description": "Police recover skimming devices from ATMs in Indiranagar, Whitefield, and Electronic City.",
+      "url": "https://example.com/atm-skimming-bengaluru",
+      "publishedAt": "2026-03-16T18:45:00Z",
+      "content": "Bengaluru police have recovered card skimming devices from ATMs at three locations — Indiranagar, Whitefield, and Electronic City. The devices were placed over the card reader slot and a hidden camera captured PINs. An estimated 150 customers may have been affected. Police advise checking for loose ATM card slots and covering the keypad while entering PINs. Affected customers should immediately block their cards and file a complaint."
+    },
+    {
+      "source": {"id": "ndtv", "name": "NDTV"},
+      "author": "National Desk",
+      "title": "Bengaluru Tech Summit 2026 to Showcase AI Innovations",
+      "description": "Annual tech summit to feature latest AI developments from Indian startups.",
+      "url": "https://example.com/bengaluru-tech-summit",
+      "publishedAt": "2026-03-18T09:00:00Z",
+      "content": "The Bengaluru Tech Summit 2026 kicks off next week with over 300 exhibitors showcasing artificial intelligence innovations. The three-day event will feature panels on responsible AI development, cybersecurity automation, and digital transformation in healthcare. Karnataka's IT Minister will inaugurate the event at the Bangalore International Exhibition Centre."
+    },
+    {
+      "source": {"id": "the-times-of-india", "name": "Times of India"},
+      "author": "Crime Bureau",
+      "title": "Elderly Couple in Delhi Loses Rs 12 Lakh to Fake CBI Officer Phone Scam",
+      "description": "Scammers impersonating CBI officers threatened couple with arrest over alleged money laundering.",
+      "url": "https://example.com/cbi-scam-delhi",
+      "publishedAt": "2026-03-18T11:00:00Z",
+      "content": "An elderly couple in Dwarka, Delhi, lost Rs 12 lakh to scammers posing as CBI officers. The callers claimed the couple's bank account was linked to a money laundering case and threatened immediate arrest unless they transferred funds to a 'safe government account.' The scam lasted three days during which the couple was kept on continuous phone calls and instructed not to tell anyone. Delhi Police Cyber Cell has registered an FIR and is tracing the phone numbers."
+    },
+    {
+      "source": {"id": "indian-express", "name": "Indian Express"},
+      "author": "Tech Desk",
+      "title": "WhatsApp Phishing Campaign Targets Delhi-NCR Users with Fake Job Offers",
+      "description": "Fake job offer messages on WhatsApp redirect to credential-harvesting websites.",
+      "url": "https://example.com/whatsapp-phishing-delhi",
+      "publishedAt": "2026-03-17T08:30:00Z",
+      "content": "A large-scale phishing campaign is targeting Delhi-NCR WhatsApp users with fake job offers from major companies like Google, Amazon, and Flipkart. The messages contain links to professional-looking application forms that collect personal data including Aadhaar, PAN, and bank account details. Cybersecurity experts estimate over 5,000 users have clicked the links in the past week. Victims are advised to report to 1930 and change passwords for any accounts where they used the same credentials."
+    },
+    {
+      "source": {"id": "ndtv", "name": "NDTV"},
+      "author": "Delhi Bureau",
+      "title": "Courier Scam Wave Hits Delhi: Fake FedEx and DHL Calls Demanding Payment",
+      "description": "Scammers calling as courier company executives claim illegal items found in parcels.",
+      "url": "https://example.com/courier-scam-delhi",
+      "publishedAt": "2026-03-19T07:15:00Z",
+      "content": "Delhi police have received over 300 complaints in the past month about courier scams. Callers impersonate FedEx or DHL executives, claiming a parcel with illegal contents has been intercepted. They then transfer the call to a fake police officer who demands payment to avoid arrest. The scam uses spoofed phone numbers and pre-recorded IVR menus to appear legitimate. Police advise immediately hanging up and calling the courier company directly on their official number."
+    },
+    {
+      "source": {"id": "the-times-of-india", "name": "Times of India"},
+      "author": "Sports Desk",
+      "title": "IPL 2026: Delhi Capitals Announce New Captain for Upcoming Season",
+      "description": "Delhi Capitals unveil their captaincy plans ahead of the IPL 2026 season.",
+      "url": "https://example.com/ipl-delhi-capitals",
+      "publishedAt": "2026-03-18T16:00:00Z",
+      "content": "Delhi Capitals have announced their new captain for IPL 2026. The franchise made the announcement at a press conference in New Delhi. The team has also revealed their new jersey design featuring the iconic Delhi skyline. Ticket sales for home matches at Arun Jaitley Stadium begin next week."
+    },
+    {
+      "source": {"id": "deccan-herald", "name": "Deccan Herald"},
+      "author": "Finance Desk",
+      "title": "Investment Fraud Scheme in Mumbai Promises 50% Monthly Returns",
+      "description": "Ponzi-style scheme targeting middle-class families through social media ads.",
+      "url": "https://example.com/investment-fraud-mumbai",
+      "publishedAt": "2026-03-17T12:00:00Z",
+      "content": "Mumbai police are investigating a fraudulent investment scheme that promised 50% monthly returns on cryptocurrency investments. The scheme, operating through Instagram and Telegram groups, targeted middle-class families in Andheri and Borivali. Over Rs 2 crore is estimated to have been collected before the operators went silent. SEBI has issued a warning about unregistered investment advisors operating through social media. Victims are urged to file complaints with the Economic Offences Wing."
+    },
+    {
+      "source": {"id": "indian-express", "name": "Indian Express"},
+      "author": "Crime Bureau",
+      "title": "QR Code Scam at Mumbai Restaurants: Customers Charged for Fake Payments",
+      "description": "Scammers replacing restaurant payment QR codes with their own to divert payments.",
+      "url": "https://example.com/qr-scam-mumbai",
+      "publishedAt": "2026-03-18T13:30:00Z",
+      "content": "Mumbai police have arrested a gang that replaced payment QR codes at over 30 restaurants in Bandra and Juhu. Customers making UPI payments were unknowingly transferring money to the scammers' accounts instead of the restaurant. The scam was discovered when multiple restaurants reported missing payments. Police advise always verifying the payee name on the UPI app before confirming any QR code payment."
+    },
+    {
+      "source": {"id": "ndtv", "name": "NDTV"},
+      "author": "Entertainment Desk",
+      "title": "Bollywood Stars Attend Grand Premiere in Mumbai",
+      "description": "A-list celebrities walk the red carpet at the latest blockbuster premiere.",
+      "url": "https://example.com/bollywood-premiere-mumbai",
+      "publishedAt": "2026-03-18T20:00:00Z",
+      "content": "Several Bollywood stars attended the grand premiere of the latest action blockbuster in Mumbai last night. The event at PVR IMAX Juhu saw celebrities including major actors and directors walking the red carpet. The film is expected to open with Rs 30 crore at the box office this weekend."
+    },
+    {
+      "source": {"id": "the-times-of-india", "name": "Times of India"},
+      "author": "Hyderabad Bureau",
+      "title": "Hyderabad Police Warn of Fake Electricity Bill SMS Scam",
+      "description": "SMS claiming overdue electricity bill threatens disconnection with a payment link.",
+      "url": "https://example.com/electricity-scam-hyderabad",
+      "publishedAt": "2026-03-16T10:00:00Z",
+      "content": "Hyderabad residents are being targeted by fake SMS messages claiming their electricity bill is overdue and service will be disconnected within 24 hours. The message includes a link to a fake payment portal that captures bank details. TSSPDCL has clarified they never send disconnection threats via SMS with payment links. Customers should check their bills only through the official TSSPDCL app or website."
+    },
+    {
+      "source": {"id": "deccan-herald", "name": "Deccan Herald"},
+      "author": "Security Desk",
+      "title": "Ransomware Attack Hits Chennai Manufacturing Firm, Operations Halted",
+      "description": "A major ransomware attack has forced a Chennai-based firm to halt production for 48 hours.",
+      "url": "https://example.com/ransomware-chennai",
+      "publishedAt": "2026-03-15T09:30:00Z",
+      "content": "A Chennai-based automobile parts manufacturer has been hit by a ransomware attack that encrypted their entire production management system. The attackers are demanding a ransom of 5 Bitcoin. The company has halted operations for 48 hours while CERT-In assists with recovery. Employee personal data including bank account details may have been compromised. The company is advising all employees to change their banking passwords and monitor accounts."
+    },
+    {
+      "source": {"id": "indian-express", "name": "Indian Express"},
+      "author": "National Desk",
+      "title": "SIM Swap Fraud Cases Rise 300% Across Indian Metro Cities",
+      "description": "Telecom regulator TRAI warns of dramatic increase in SIM swap fraud targeting bank accounts.",
+      "url": "https://example.com/sim-swap-india",
+      "publishedAt": "2026-03-19T05:00:00Z",
+      "content": "TRAI has issued an advisory warning of a 300% increase in SIM swap fraud cases across Delhi, Mumbai, Bengaluru, and Hyderabad. Fraudsters convince telecom customer care to issue a duplicate SIM, effectively hijacking the victim's phone number. Once they control the number, they intercept OTPs to drain bank accounts. TRAI advises setting a SIM lock PIN and immediately contacting your telecom provider if your phone loses network unexpectedly."
+    },
+    {
+      "source": {"id": "ndtv", "name": "NDTV"},
+      "author": "Weather Desk",
+      "title": "Heavy Rain Expected Across Karnataka This Weekend",
+      "description": "IMD issues yellow alert for Bengaluru and surrounding districts.",
+      "url": "https://example.com/rain-karnataka",
+      "publishedAt": "2026-03-19T08:00:00Z",
+      "content": "The India Meteorological Department has issued a yellow alert for Bengaluru and surrounding districts due to expected heavy rainfall this weekend. Residents in low-lying areas are advised to be cautious. Waterlogging is expected in parts of Majestic and Silk Board junction areas."
+    },
+    {
+      "source": {"id": "the-times-of-india", "name": "Times of India"},
+      "author": "Delhi Bureau",
+      "title": "Chain Snatching Incidents Spike in South Delhi Neighbourhoods",
+      "description": "Police report 15 chain snatching cases in the past week in South Delhi residential areas.",
+      "url": "https://example.com/chain-snatching-delhi",
+      "publishedAt": "2026-03-17T19:00:00Z",
+      "content": "South Delhi has seen a worrying spike in chain snatching incidents with 15 cases reported in the past week across Greater Kailash, Saket, and Hauz Khas areas. Most incidents occurred during early morning walks or evening hours. The perpetrators operate on motorcycles. Delhi Police have increased patrolling and advise residents to avoid wearing expensive jewelry during walks and stay alert in isolated areas."
+    },
+    {
+      "source": {"id": "deccan-herald", "name": "Deccan Herald"},
+      "author": "Recipe Corner",
+      "title": "Bengaluru's Best New Cafes: A Food Lover's Guide for 2026",
+      "description": "Exploring the newest cafe openings in Bengaluru's thriving food scene.",
+      "url": "https://example.com/bengaluru-cafes",
+      "publishedAt": "2026-03-18T12:00:00Z",
+      "content": "Bengaluru's cafe scene continues to boom in 2026 with exciting new openings across Indiranagar, Koramangala, and JP Nagar. From specialty coffee roasters to artisan bakeries, we round up the must-visit spots for food lovers. The trend towards sustainable, locally-sourced ingredients continues to define the city's food culture."
+    }
+  ]
+}

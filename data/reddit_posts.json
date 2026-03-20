@@ -1,0 +1,232 @@
+{
+  "kind": "Listing",
+  "data": {
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r001",
+          "subreddit": "bangalore",
+          "title": "Got a suspicious OTP call claiming to be from SBI - anyone else?",
+          "selftext": "Just received a call from someone claiming to be an SBI representative saying my account will be blocked unless I share my OTP. The caller knew my name and last 4 digits of my account. I didn't share anything but I'm worried they have my details. Has anyone else in Bengaluru received similar calls this week? Should I visit the branch?",
+          "author": "concerned_blr_42",
+          "score": 234,
+          "num_comments": 45,
+          "created_utc": 1710700000,
+          "permalink": "/r/bangalore/comments/r001/got_suspicious_otp_call/",
+          "url": "https://reddit.com/r/bangalore/comments/r001/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r002",
+          "subreddit": "bangalore",
+          "title": "Warning: Fake Swiggy delivery agents collecting extra payment at door",
+          "selftext": "Posting this as a warning for everyone in HSR Layout and BTM. Twice this week, people posing as Swiggy delivery agents came to my apartment asking for extra payment claiming a 'system error'. They had a fake QR code that redirects payment to their personal account. Real Swiggy agents never ask for extra payment at delivery. Please be careful and always check the app before paying anything extra.",
+          "author": "hsr_resident",
+          "score": 456,
+          "num_comments": 89,
+          "created_utc": 1710650000,
+          "permalink": "/r/bangalore/comments/r002/warning_fake_swiggy/",
+          "url": "https://reddit.com/r/bangalore/comments/r002/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r003",
+          "subreddit": "bangalore",
+          "title": "Best biryani places in Koramangala? New to the area",
+          "selftext": "Just moved to Koramangala from Pune. Looking for authentic biryani recommendations. Preferably Hyderabadi style. Budget around 300-400 per plate. Thanks in advance!",
+          "author": "foodie_pune2blr",
+          "score": 67,
+          "num_comments": 34,
+          "created_utc": 1710600000,
+          "permalink": "/r/bangalore/comments/r003/best_biryani_koramangala/",
+          "url": "https://reddit.com/r/bangalore/comments/r003/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r004",
+          "subreddit": "bangalore",
+          "title": "My home WiFi was compromised - sharing what happened and how I fixed it",
+          "selftext": "Last week I noticed unusual devices on my home network. After investigation, I found that my router's admin password was still the default one and someone had gained access. They had set up DNS redirection which could intercept my traffic. Here's what I did to fix it: 1) Factory reset the router, 2) Set a strong admin password, 3) Changed WiFi password to a 20+ character passphrase, 4) Enabled WPA3, 5) Disabled WPS. If you haven't changed your router's default credentials, please do it today. This was in Whitefield area.",
+          "author": "security_aware_dev",
+          "score": 892,
+          "num_comments": 156,
+          "created_utc": 1710550000,
+          "permalink": "/r/bangalore/comments/r004/wifi_compromised/",
+          "url": "https://reddit.com/r/bangalore/comments/r004/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r005",
+          "subreddit": "delhi",
+          "title": "My grandmother almost fell for a tech support scam call today",
+          "selftext": "My 72-year-old grandmother received a call saying her computer had a virus and Microsoft would fix it if she installed TeamViewer and paid Rs 5000. Thankfully she told me before doing anything. These scammers specifically target elderly people who live alone. Please talk to your grandparents and parents about these scams. The number was +91-98XXXXXX. Reported to cybercrime.gov.in already.",
+          "author": "protective_grandson",
+          "score": 1203,
+          "num_comments": 234,
+          "created_utc": 1710680000,
+          "permalink": "/r/delhi/comments/r005/grandmother_tech_support_scam/",
+          "url": "https://reddit.com/r/delhi/comments/r005/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r006",
+          "subreddit": "delhi",
+          "title": "Beware of fake parking attendants at Connaught Place charging via QR codes",
+          "selftext": "Was at CP yesterday and some guys in fake uniforms were collecting parking fees via their personal QR codes. They even had printed rate cards. The MCD has confirmed that official parking is only through the Delhi Parking app or authorized POS machines. If anyone asks you to scan a random QR code for parking, refuse and report. Sharing photos of the fake uniform for reference.",
+          "author": "cp_regular",
+          "score": 567,
+          "num_comments": 78,
+          "created_utc": 1710630000,
+          "permalink": "/r/delhi/comments/r006/fake_parking_cp/",
+          "url": "https://reddit.com/r/delhi/comments/r006/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r007",
+          "subreddit": "delhi",
+          "title": "Best metro route from Rajiv Chowk to Huda City Centre during peak hours?",
+          "selftext": "What's the best time to avoid the rush? Is it better to go via yellow line direct or change at Central Secretariat? Any tips for daily commuters?",
+          "author": "metro_commuter_del",
+          "score": 45,
+          "num_comments": 23,
+          "created_utc": 1710500000,
+          "permalink": "/r/delhi/comments/r007/metro_route/",
+          "url": "https://reddit.com/r/delhi/comments/r007/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r008",
+          "subreddit": "india",
+          "title": "PSA: New phishing email impersonating Income Tax Department asking for Aadhaar verification",
+          "selftext": "Received a very convincing email from 'incometax-gov-verify@mail.com' asking to verify my Aadhaar for tax refund processing. The email had the official IT department logo and formatting. The link goes to a fake page that looks exactly like the e-filing portal. The real Income Tax site is incometaxindiaefiling.gov.in. Never click links in emails claiming tax refunds. The IT department sends notices through their official portal only. Reported to CERT-In.",
+          "author": "vigilant_taxpayer",
+          "score": 2341,
+          "num_comments": 456,
+          "created_utc": 1710690000,
+          "permalink": "/r/india/comments/r008/phishing_income_tax/",
+          "url": "https://reddit.com/r/india/comments/r008/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r009",
+          "subreddit": "india",
+          "title": "Airtel users: Check if your data was in the alleged breach being discussed on forums",
+          "selftext": "There are reports on cybersecurity forums about a potential data leak affecting Airtel prepaid users. Allegedly includes phone numbers, email addresses, and circle information. Airtel hasn't confirmed or denied yet. As a precaution: 1) Change your Airtel app password, 2) If you use the same password elsewhere, change those too, 3) Enable 2FA on your Airtel account. Will update if there's an official statement.",
+          "author": "infosec_watcher",
+          "score": 3456,
+          "num_comments": 678,
+          "created_utc": 1710720000,
+          "permalink": "/r/india/comments/r009/airtel_breach/",
+          "url": "https://reddit.com/r/india/comments/r009/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r010",
+          "subreddit": "india",
+          "title": "Collection of all known UPI scam methods and how to protect yourself (Updated 2026)",
+          "selftext": "Compiling this list after seeing daily posts about UPI fraud. Common methods: 1) Fake collect requests disguised as refunds, 2) QR codes that debit instead of credit, 3) Screen sharing apps that capture OTPs, 4) Fake customer care numbers on Google, 5) SIM swap to intercept OTPs. Protection: Never approve unknown collect requests, always verify QR payee name, never install screen sharing apps from strangers, only call numbers from official bank apps.",
+          "author": "upi_safety_advocate",
+          "score": 5678,
+          "num_comments": 890,
+          "created_utc": 1710660000,
+          "permalink": "/r/india/comments/r010/upi_scam_methods/",
+          "url": "https://reddit.com/r/india/comments/r010/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r011",
+          "subreddit": "scams",
+          "title": "Indian lottery scam variant now using WhatsApp video calls",
+          "selftext": "New variant of the classic lottery scam specifically targeting Indian users. They now initiate WhatsApp video calls showing a 'live draw' where your number 'wins'. Then they ask for processing fees via UPI. The video is pre-recorded and loops. Don't engage with unknown WhatsApp video calls claiming you've won anything.",
+          "author": "scam_researcher",
+          "score": 345,
+          "num_comments": 56,
+          "created_utc": 1710640000,
+          "permalink": "/r/scams/comments/r011/indian_lottery_whatsapp/",
+          "url": "https://reddit.com/r/scams/comments/r011/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r012",
+          "subreddit": "scams",
+          "title": "Fake RBI officer calling about 'suspicious transaction' - detailed breakdown",
+          "selftext": "Breaking down a scam call I recorded (with consent notification). Step 1: IVR in Hindi/English saying 'suspicious transaction detected on your account'. Step 2: Transfer to 'RBI officer' who knows your name. Step 3: They say your account will be frozen in 2 hours. Step 4: Ask you to transfer money to 'RBI safe account'. The RBI never calls individuals about transactions. Your bank might, but they'll never ask you to transfer money. Call 1930 to report.",
+          "author": "scam_documenter",
+          "score": 789,
+          "num_comments": 123,
+          "created_utc": 1710670000,
+          "permalink": "/r/scams/comments/r012/fake_rbi_officer/",
+          "url": "https://reddit.com/r/scams/comments/r012/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r013",
+          "subreddit": "mumbai",
+          "title": "Multiple bike thefts reported near Andheri station this month",
+          "selftext": "Third bike theft this month near Andheri West station. Mine was parked with disc lock but they lifted it into a tempo. CCTV footage shows a gang of 4 operating between 2-4 AM. Police complaint filed but no progress. Anyone else affected? Should we start a neighborhood watch group?",
+          "author": "andheri_biker",
+          "score": 432,
+          "num_comments": 67,
+          "created_utc": 1710610000,
+          "permalink": "/r/mumbai/comments/r013/bike_theft_andheri/",
+          "url": "https://reddit.com/r/mumbai/comments/r013/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r014",
+          "subreddit": "hyderabad",
+          "title": "Fake Aadhaar update centers found in Secunderabad - UIDAI warning",
+          "selftext": "UIDAI has flagged several unauthorized Aadhaar update centers in Secunderabad that are collecting biometric data and charging Rs 500-1000 for updates that should cost Rs 50 at official centers. These fake centers may be harvesting biometric data for identity theft. Only use official Aadhaar enrollment centers listed on uidai.gov.in. Report unauthorized centers to 1947.",
+          "author": "hyd_civic_watch",
+          "score": 678,
+          "num_comments": 89,
+          "created_utc": 1710620000,
+          "permalink": "/r/hyderabad/comments/r014/fake_aadhaar_centers/",
+          "url": "https://reddit.com/r/hyderabad/comments/r014/"
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "r015",
+          "subreddit": "mumbai",
+          "title": "Thoughts on the new metro line? Is it reducing traffic?",
+          "selftext": "Been using the new metro line for a week now. Commute from Dahisar to BKC went from 90 mins to 45 mins. What's everyone's experience? Any overcrowding issues during peak hours?",
+          "author": "mumbai_commuter",
+          "score": 234,
+          "num_comments": 112,
+          "created_utc": 1710580000,
+          "permalink": "/r/mumbai/comments/r015/new_metro_line/",
+          "url": "https://reddit.com/r/mumbai/comments/r015/"
+        }
+      }
+    ]
+  }
+}
