@@ -1,168 +1,331 @@
 {
   "status": "ok",
-  "totalResults": 18,
+  "totalResults": 25,
   "articles": [
     {
-      "source": {"id": "ndtv", "name": "NDTV"},
-      "author": "Security Desk",
-      "title": "UPI Fraud Ring Busted in Bengaluru, 200 Victims Identified",
-      "description": "Bengaluru police arrested 5 members of a UPI fraud ring operating across Koramangala and HSR Layout.",
-      "url": "https://example.com/upi-fraud-bengaluru",
-      "publishedAt": "2026-03-18T10:30:00Z",
-      "content": "Bengaluru police have dismantled a sophisticated UPI fraud network that targeted over 200 victims across Koramangala and HSR Layout. The gang used fake collect requests disguised as cashback refunds. Victims approved the requests thinking they were receiving money, but were actually authorizing debits from their accounts. Total losses are estimated at Rs 45 lakh. Police urge citizens to never approve unsolicited UPI collect requests."
+      "source": {
+        "id": "republicworld",
+        "name": "Republic World"
+      },
+      "author": "nidhi sinha",
+      "title": "Booked Ola For Rs 285, Charged Rs 5,950? Commuter Flags 'New Cab Scam' In Bengaluru",
+      "description": "A social media post highlighting an alleged cab scam in Bengaluru is going viral on social media. According to a commuter's allegation, a cab driver tried to extort Rs 5,950 from him when his actual fare was Rs 285.",
+      "url": "https://www.republicworld.com/viral/booked-ola-for-rs-285-charged-rs-5950-commuter-flags-new-cab-scam-in-bengaluru",
+      "urlToImage": "https://img.republicworld.com/all_images/2026/03/booked-ola-for-rs-285-charged-rs-5950-commuter-flags-new-cab-scam-in-bengaluru-1773929293347-1280x720.webp?tr=f-jpeg",
+      "publishedAt": "2026-03-19 14:08:19",
+      "content": "A social media post highlighting an alleged cab scam in Bengaluru is going viral on social media. According to a commuter's allegation, a cab driver tried to extort Rs 5,950 from him when his actual fare was Rs 285."
     },
     {
-      "source": {"id": "the-times-of-india", "name": "Times of India"},
-      "author": "Tech Bureau",
-      "title": "Fake KYC Update Scam Targets HDFC and SBI Customers in Bengaluru",
-      "description": "Customers receiving SMS claiming KYC expiry with link to fake banking portal.",
-      "url": "https://example.com/kyc-scam-bengaluru",
-      "publishedAt": "2026-03-17T14:15:00Z",
-      "content": "A wave of fake KYC update messages is targeting HDFC and SBI customers in Bengaluru. The SMS claims that the customer's KYC has expired and provides a link to update details. The link leads to a convincing replica of the bank's website that captures login credentials and OTP. HDFC Bank has issued an advisory stating they never send KYC update links via SMS. Affected customers should report to cybercrime.gov.in immediately."
+      "source": {
+        "id": "timesnownews",
+        "name": "Times Now News"
+      },
+      "author": "mansi arora",
+      "title": "In Burqas, Faces Covered with Dupatta: How A Father-Son Duo Pulled Off Rs 80 Lakh Heist in Bengaluru?",
+      "description": "A 21-year-old man and his father orchestrated a robbery of computer parts valued at Rs 80 lakh from a shop in Bengaluru. They disguised themselves in burqas while breaking in on March 14, stealing cash and various electronic components.",
+      "url": "https://www.timesnownews.com/bengaluru/in-burqas-faces-covered-with-dupatta-how-a-father-son-duo-pulled-off-rs-80-lakh-heist-in-bengaluru-bengaluru-news-article-153874738",
+      "urlToImage": "https://images.timesnownews.com/thumb/msid-153874871,thumbsize-1363765,width-1280,height-720,resizemode-75/153874871.jpg",
+      "publishedAt": "2026-03-19 15:16:16",
+      "content": "A 21-year-old man and his father orchestrated a robbery of computer parts valued at Rs 80 lakh from a shop in Bengaluru. They disguised themselves in burqas while breaking in on March 14, stealing cash and various electronic components."
     },
     {
-      "source": {"id": "indian-express", "name": "Indian Express"},
-      "author": "City Desk",
-      "title": "Data Breach at Bengaluru-Based Health Tech Startup Exposes 50,000 Patient Records",
-      "description": "A major data breach at MediTrack has exposed sensitive health records including Aadhaar numbers.",
-      "url": "https://example.com/meditrack-breach",
-      "publishedAt": "2026-03-19T06:00:00Z",
-      "content": "Bengaluru-based health tech startup MediTrack has confirmed a data breach affecting approximately 50,000 patient records. Exposed data includes names, phone numbers, Aadhaar numbers, and medical histories. CERT-In has been notified and is investigating. The breach was discovered when researchers found a publicly accessible database on the dark web. MediTrack is urging affected users to monitor their financial accounts and change passwords for any services using the same credentials."
+      "source": {
+        "id": "thehansindia",
+        "name": "The Hans India"
+      },
+      "author": "the hans india",
+      "title": "Man attacks woman with machete, throws acid on five women",
+      "description": "Chitradurga A shocking incident of violence has been reported from Malappanahatti in Chitradurga district, where a man allegedly attacked a woman with a machete and later hurled acid on her family...",
+      "url": "https://www.thehansindia.com/karnataka/man-attacks-woman-with-machete-throws-acid-on-five-women-1057982",
+      "urlToImage": "https://assets.thehansindia.com/h-upload/2026/03/19/1637245-machete.webp",
+      "publishedAt": "2026-03-19 14:15:08",
+      "content": "Chitradurga A shocking incident of violence has been reported from Malappanahatti in Chitradurga district, where a man allegedly attacked a woman with a machete and later hurled acid on her family..."
     },
     {
-      "source": {"id": "deccan-herald", "name": "Deccan Herald"},
-      "author": "Crime Desk",
-      "title": "ATM Card Skimming Devices Found at Three Bengaluru Locations",
-      "description": "Police recover skimming devices from ATMs in Indiranagar, Whitefield, and Electronic City.",
-      "url": "https://example.com/atm-skimming-bengaluru",
-      "publishedAt": "2026-03-16T18:45:00Z",
-      "content": "Bengaluru police have recovered card skimming devices from ATMs at three locations — Indiranagar, Whitefield, and Electronic City. The devices were placed over the card reader slot and a hidden camera captured PINs. An estimated 150 customers may have been affected. Police advise checking for loose ATM card slots and covering the keypad while entering PINs. Affected customers should immediately block their cards and file a complaint."
+      "source": {
+        "id": "indianexpress",
+        "name": "The Indian Express"
+      },
+      "author": "express news service",
+      "title": "Delhi court rules Antrix-Devas ‘main offences’ happened in Bengaluru, returns 8-year-old CBI chargesheet",
+      "description": "The special CBI court accepted the application filed by former ISRO additional secretary Veena Sriram Rao, who questioned the court's jurisdiction to conduct the trial.",
+      "url": "https://indianexpress.com/article/cities/bangalore/antrix-devas-case-cbi-court-delhi-transfer-bengaluru-jurisdiction-10591000/",
+      "urlToImage": "https://images.indianexpress.com/2026/03/Bengaluru-Antrix-Devas-deal.jpg",
+      "publishedAt": "2026-03-19 16:09:47",
+      "content": "The special CBI court accepted the application filed by former ISRO additional secretary Veena Sriram Rao, who questioned the court's jurisdiction to conduct the trial."
     },
     {
-      "source": {"id": "ndtv", "name": "NDTV"},
-      "author": "National Desk",
-      "title": "Bengaluru Tech Summit 2026 to Showcase AI Innovations",
-      "description": "Annual tech summit to feature latest AI developments from Indian startups.",
-      "url": "https://example.com/bengaluru-tech-summit",
-      "publishedAt": "2026-03-18T09:00:00Z",
-      "content": "The Bengaluru Tech Summit 2026 kicks off next week with over 300 exhibitors showcasing artificial intelligence innovations. The three-day event will feature panels on responsible AI development, cybersecurity automation, and digital transformation in healthcare. Karnataka's IT Minister will inaugurate the event at the Bangalore International Exhibition Centre."
+      "source": {
+        "id": "insidesport_in",
+        "name": "Inside Sport India"
+      },
+      "author": "ansh athani",
+      "title": "IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now",
+      "description": "Only 1 player has been officially ruled out of the IPL 2026 but several are either injured, in recovery or unconfirmed to play. The post IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now appeared first on Inside Sport India .",
+      "url": "https://www.insidesport.in/cricket/ipl-2026-injury-list-rcb-kkr-lsg-srh-in-trouble-no-worries-for-csk-pbks/",
+      "urlToImage": "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2025/11/Josh-Hazlewood-Australia.webp",
+      "publishedAt": "2026-03-19 16:11:56",
+      "content": "Only 1 player has been officially ruled out of the IPL 2026 but several are either injured, in recovery or unconfirmed to play. The post IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now appeared first on Inside Sport India ."
     },
     {
-      "source": {"id": "the-times-of-india", "name": "Times of India"},
-      "author": "Crime Bureau",
-      "title": "Elderly Couple in Delhi Loses Rs 12 Lakh to Fake CBI Officer Phone Scam",
-      "description": "Scammers impersonating CBI officers threatened couple with arrest over alleged money laundering.",
-      "url": "https://example.com/cbi-scam-delhi",
-      "publishedAt": "2026-03-18T11:00:00Z",
-      "content": "An elderly couple in Dwarka, Delhi, lost Rs 12 lakh to scammers posing as CBI officers. The callers claimed the couple's bank account was linked to a money laundering case and threatened immediate arrest unless they transferred funds to a 'safe government account.' The scam lasted three days during which the couple was kept on continuous phone calls and instructed not to tell anyone. Delhi Police Cyber Cell has registered an FIR and is tracing the phone numbers."
+      "source": {
+        "id": "hindustantimes",
+        "name": "Hindustan Times"
+      },
+      "author": "pti",
+      "title": "Palam fire tragedy: Smoke inhalation likely killed most, short circuit caused blaze, says police",
+      "description": "Palam fire tragedy: Smoke inhalation likely killed most, short circuit caused blaze, says police",
+      "url": "https://www.hindustantimes.com/cities/delhi-news/palam-fire-tragedy-smoke-inhalation-likely-killed-most-short-circuit-caused-blaze-says-police-101773936787566.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/01/27/1600x900/logo/ht-generic_cities2_1769511880449_1769511907099.jpg",
+      "publishedAt": "2026-03-19 16:13:07",
+      "content": "Palam fire tragedy: Smoke inhalation likely killed most, short circuit caused blaze, says police"
     },
     {
-      "source": {"id": "indian-express", "name": "Indian Express"},
-      "author": "Tech Desk",
-      "title": "WhatsApp Phishing Campaign Targets Delhi-NCR Users with Fake Job Offers",
-      "description": "Fake job offer messages on WhatsApp redirect to credential-harvesting websites.",
-      "url": "https://example.com/whatsapp-phishing-delhi",
-      "publishedAt": "2026-03-17T08:30:00Z",
-      "content": "A large-scale phishing campaign is targeting Delhi-NCR WhatsApp users with fake job offers from major companies like Google, Amazon, and Flipkart. The messages contain links to professional-looking application forms that collect personal data including Aadhaar, PAN, and bank account details. Cybersecurity experts estimate over 5,000 users have clicked the links in the past week. Victims are advised to report to 1930 and change passwords for any accounts where they used the same credentials."
+      "source": {
+        "id": "ndtv",
+        "name": "Ndtv"
+      },
+      "author": "mukesh singh sengar",
+      "title": "Man Killed, 10-Year-Old Shot In Leg After 3 Attackers Barge Into Delhi Home",
+      "description": "The shootout is being linked to the rivalry between two gangs",
+      "url": "https://www.ndtv.com/india-news/delhi-crime-news-man-killed-10-year-old-shot-at-in-suspected-gang-war-firing-in-delhis-bawana-11239645",
+      "urlToImage": "https://c.ndtvimg.com/2026-03/l2g3seao_bawan-shootout_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "publishedAt": "2026-03-19 15:55:44",
+      "content": "The shootout is being linked to the rivalry between two gangs"
     },
     {
-      "source": {"id": "ndtv", "name": "NDTV"},
-      "author": "Delhi Bureau",
-      "title": "Courier Scam Wave Hits Delhi: Fake FedEx and DHL Calls Demanding Payment",
-      "description": "Scammers calling as courier company executives claim illegal items found in parcels.",
-      "url": "https://example.com/courier-scam-delhi",
-      "publishedAt": "2026-03-19T07:15:00Z",
-      "content": "Delhi police have received over 300 complaints in the past month about courier scams. Callers impersonate FedEx or DHL executives, claiming a parcel with illegal contents has been intercepted. They then transfer the call to a fake police officer who demands payment to avoid arrest. The scam uses spoofed phone numbers and pre-recorded IVR menus to appear legitimate. Police advise immediately hanging up and calling the courier company directly on their official number."
+      "source": {
+        "id": "hindustantimes",
+        "name": "Hindustan Times"
+      },
+      "author": "jitendra sarin",
+      "title": "Noida techie death: What steps taken to rescue victim, high court asks NDRF and SDRF",
+      "description": "“Fire brigade, SDRF and NDRF also reached there. Before drowning, there was a substantial period of time, in which rescue could have been attempted...,” says court",
+      "url": "https://www.hindustantimes.com/cities/lucknow-news/noida-techie-death-what-steps-taken-to-rescue-victim-high-court-asks-ndrf-and-sdrf-101773935244916.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2026/03/19/1600x900/logo/Mehta--who-then-climbed-on-the-roof-of-the-car-and_1773935241426.png",
+      "publishedAt": "2026-03-19 15:47:24",
+      "content": "“Fire brigade, SDRF and NDRF also reached there. Before drowning, there was a substantial period of time, in which rescue could have been attempted...,” says court"
     },
     {
-      "source": {"id": "the-times-of-india", "name": "Times of India"},
-      "author": "Sports Desk",
-      "title": "IPL 2026: Delhi Capitals Announce New Captain for Upcoming Season",
-      "description": "Delhi Capitals unveil their captaincy plans ahead of the IPL 2026 season.",
-      "url": "https://example.com/ipl-delhi-capitals",
-      "publishedAt": "2026-03-18T16:00:00Z",
-      "content": "Delhi Capitals have announced their new captain for IPL 2026. The franchise made the announcement at a press conference in New Delhi. The team has also revealed their new jersey design featuring the iconic Delhi skyline. Ticket sales for home matches at Arun Jaitley Stadium begin next week."
+      "source": {
+        "id": "freepressjournal",
+        "name": "The Free Press Journal"
+      },
+      "author": "somendra sharma",
+      "title": "CBI Questioned Anil Ambani In SBI's ₹2929 Crore 'Cheating' Case",
+      "description": "Industrialist Anil Ambani appeared before the CBI in Delhi on Thursday for questioning in a ₹2,929 crore alleged fraud case linked to Reliance Communications Ltd, based on an SBI complaint. The agency reportedly probed fund diversion and irregularities. Ambani was examined for about 8 hours and asked to reappear Friday, with his spokesperson stating he will fully cooperate.",
+      "url": "https://www.freepressjournal.in/mumbai/cbi-questioned-anil-ambani-in-sbis-2929-crore-cheating-case",
+      "urlToImage": "https://media.assettype.com/freepressjournal/2025-07-24/p3q88kj5/anil-ambani-.jpg",
+      "publishedAt": "2026-03-19 16:08:09",
+      "content": "Industrialist Anil Ambani appeared before the CBI in Delhi on Thursday for questioning in a ₹2,929 crore alleged fraud case linked to Reliance Communications Ltd, based on an SBI complaint. The agency reportedly probed fund diversion and irregularities. Ambani was examined for about 8 hours and asked to reappear Friday, with his spokesperson stating he will fully cooperate."
     },
     {
-      "source": {"id": "deccan-herald", "name": "Deccan Herald"},
-      "author": "Finance Desk",
-      "title": "Investment Fraud Scheme in Mumbai Promises 50% Monthly Returns",
-      "description": "Ponzi-style scheme targeting middle-class families through social media ads.",
-      "url": "https://example.com/investment-fraud-mumbai",
-      "publishedAt": "2026-03-17T12:00:00Z",
-      "content": "Mumbai police are investigating a fraudulent investment scheme that promised 50% monthly returns on cryptocurrency investments. The scheme, operating through Instagram and Telegram groups, targeted middle-class families in Andheri and Borivali. Over Rs 2 crore is estimated to have been collected before the operators went silent. SEBI has issued a warning about unregistered investment advisors operating through social media. Victims are urged to file complaints with the Economic Offences Wing."
+      "source": {
+        "id": "daijiworld",
+        "name": "Daijiworld"
+      },
+      "author": null,
+      "title": "Rail accidents drop nearly 90% as safety measures strengthen: Govt",
+      "description": "Daijiworld Media Network - New Delhi New Delhi, Mar 19: Train accidents on Indian Railways have declined sharply over the past decade, with consequential accidents falling by nearly 90 per cent, Railway Minister Ashwini Vaishnaw informed Parliament. I....",
+      "url": "https://daijiworld.com/news/newsDisplay?newsID=1309548",
+      "urlToImage": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/rayan_19032026_Vaishnaw.jpg",
+      "publishedAt": "2026-03-19 16:10:42",
+      "content": "Daijiworld Media Network - New Delhi New Delhi, Mar 19: Train accidents on Indian Railways have declined sharply over the past decade, with consequential accidents falling by nearly 90 per cent, Railway Minister Ashwini Vaishnaw informed Parliament. I...."
     },
     {
-      "source": {"id": "indian-express", "name": "Indian Express"},
-      "author": "Crime Bureau",
-      "title": "QR Code Scam at Mumbai Restaurants: Customers Charged for Fake Payments",
-      "description": "Scammers replacing restaurant payment QR codes with their own to divert payments.",
-      "url": "https://example.com/qr-scam-mumbai",
-      "publishedAt": "2026-03-18T13:30:00Z",
-      "content": "Mumbai police have arrested a gang that replaced payment QR codes at over 30 restaurants in Bandra and Juhu. Customers making UPI payments were unknowingly transferring money to the scammers' accounts instead of the restaurant. The scam was discovered when multiple restaurants reported missing payments. Police advise always verifying the payee name on the UPI app before confirming any QR code payment."
+      "source": {
+        "id": "freepressjournal",
+        "name": "The Free Press Journal"
+      },
+      "author": "somendra sharma",
+      "title": "CBI Questioned Anil Ambani In SBI's ₹2929 Crore 'Cheating' Case",
+      "description": "Industrialist Anil Ambani appeared before the CBI in Delhi on Thursday for questioning in a ₹2,929 crore alleged fraud case linked to Reliance Communications Ltd, based on an SBI complaint. The agency reportedly probed fund diversion and irregularities. Ambani was examined for about 8 hours and asked to reappear Friday, with his spokesperson stating he will fully cooperate.",
+      "url": "https://www.freepressjournal.in/mumbai/cbi-questioned-anil-ambani-in-sbis-2929-crore-cheating-case",
+      "urlToImage": "https://media.assettype.com/freepressjournal/2025-07-24/p3q88kj5/anil-ambani-.jpg",
+      "publishedAt": "2026-03-19 16:08:09",
+      "content": "Industrialist Anil Ambani appeared before the CBI in Delhi on Thursday for questioning in a ₹2,929 crore alleged fraud case linked to Reliance Communications Ltd, based on an SBI complaint. The agency reportedly probed fund diversion and irregularities. Ambani was examined for about 8 hours and asked to reappear Friday, with his spokesperson stating he will fully cooperate."
     },
     {
-      "source": {"id": "ndtv", "name": "NDTV"},
-      "author": "Entertainment Desk",
-      "title": "Bollywood Stars Attend Grand Premiere in Mumbai",
-      "description": "A-list celebrities walk the red carpet at the latest blockbuster premiere.",
-      "url": "https://example.com/bollywood-premiere-mumbai",
-      "publishedAt": "2026-03-18T20:00:00Z",
-      "content": "Several Bollywood stars attended the grand premiere of the latest action blockbuster in Mumbai last night. The event at PVR IMAX Juhu saw celebrities including major actors and directors walking the red carpet. The film is expected to open with Rs 30 crore at the box office this weekend."
+      "source": {
+        "id": "rediff",
+        "name": "Rediff"
+      },
+      "author": "text feed",
+      "title": "Mumbai Airport Bust: Passengers Held for Smuggling Hydroponic Ganja",
+      "description": "The Air Intelligence Unit (AIU) arrested four passengers at Chhatrapati Shivaji Maharaj International Airport in Mumbai for allegedly smuggling 64.394 kilograms of hydroponic ganja worth over Rs 64 crore.",
+      "url": "https://www.rediff.com/news/report/mumbai-airport-hydroponic-ganja-worth-rs-64-cr-seized/20260319.htm",
+      "urlToImage": "https://im.rediff.com/1600-900/news/2024/apr/04airport.jpg",
+      "publishedAt": "2026-03-19 15:05:23",
+      "content": "The Air Intelligence Unit (AIU) arrested four passengers at Chhatrapati Shivaji Maharaj International Airport in Mumbai for allegedly smuggling 64.394 kilograms of hydroponic ganja worth over Rs 64 crore."
     },
     {
-      "source": {"id": "the-times-of-india", "name": "Times of India"},
-      "author": "Hyderabad Bureau",
-      "title": "Hyderabad Police Warn of Fake Electricity Bill SMS Scam",
-      "description": "SMS claiming overdue electricity bill threatens disconnection with a payment link.",
-      "url": "https://example.com/electricity-scam-hyderabad",
-      "publishedAt": "2026-03-16T10:00:00Z",
-      "content": "Hyderabad residents are being targeted by fake SMS messages claiming their electricity bill is overdue and service will be disconnected within 24 hours. The message includes a link to a fake payment portal that captures bank details. TSSPDCL has clarified they never send disconnection threats via SMS with payment links. Customers should check their bills only through the official TSSPDCL app or website."
+      "source": {
+        "id": "lawtrend_in",
+        "name": "Law Trend - Legal News Network"
+      },
+      "author": "law trend",
+      "title": "Supreme Court Refuses to Stay Bail for Accused in Baba Siddique Murder Case, Cites ‘Well-Reasoned’ High Court Order",
+      "description": "The Supreme Court of India on Thursday declined to interfere with the bail granted to Akashdeep Karaj Singh, an accused in the high-profile murder of Nationalist Council Party (NCP) leader and former MLA Baba Siddique. A bench comprising Justices JB Pardiwala and KV Viswanathan dismissed the plea filed by Siddique’s widow, Shehzeen Ziauddin Siddique, observing [...]",
+      "url": "https://lawtrend.in/supreme-court-refuses-to-stay-bail-for-accused-in-baba-siddique-murder-case-cites-well-reasoned-high-court-order/",
+      "urlToImage": "https://lawtrend.in/wp-content/uploads/2024/08/supreme-court-a.jpg",
+      "publishedAt": "2026-03-19 15:46:35",
+      "content": "The Supreme Court of India on Thursday declined to interfere with the bail granted to Akashdeep Karaj Singh, an accused in the high-profile murder of Nationalist Council Party (NCP) leader and former MLA Baba Siddique. A bench comprising Justices JB Pardiwala and KV Viswanathan dismissed the plea filed by Siddique’s widow, Shehzeen Ziauddin Siddique, observing [...]"
     },
     {
-      "source": {"id": "deccan-herald", "name": "Deccan Herald"},
-      "author": "Security Desk",
-      "title": "Ransomware Attack Hits Chennai Manufacturing Firm, Operations Halted",
-      "description": "A major ransomware attack has forced a Chennai-based firm to halt production for 48 hours.",
-      "url": "https://example.com/ransomware-chennai",
-      "publishedAt": "2026-03-15T09:30:00Z",
-      "content": "A Chennai-based automobile parts manufacturer has been hit by a ransomware attack that encrypted their entire production management system. The attackers are demanding a ransom of 5 Bitcoin. The company has halted operations for 48 hours while CERT-In assists with recovery. Employee personal data including bank account details may have been compromised. The company is advising all employees to change their banking passwords and monitor accounts."
+      "source": {
+        "id": "sambadenglish",
+        "name": "Sambad English"
+      },
+      "author": "ians",
+      "title": "CBI questions Anil Ambani over alleged ₹2,929 crore Fraud in State Bank of India case",
+      "description": "New Delhi: The Central Bureau of Investigation (CBI) questioned Reliance Group Chairperson Anil Ambani on Thursday for 8 hours at a stretch in a complaint filed by the SBI related to an alleged Rs 2,929 crore fraud by Reliance Communications (RCom). Ambani has been asked to appear for further interrogation at the CBI office on Friday. The CBI registered a complaint after the SBI claimed a loss of Rs 2,929 crore resulting from alleged misappropriation by RCom and Anil Ambani by entering into transactions that violated the terms of loans extended by it. The public sector bank classified the accounts as fraud in June last year. This led to CBI searches at RCom's offices and Ambani's residence. Along with Ambani, Amit Dangi, the whole-time Director at Authum Investment & Infrastructure Ltd., was also summoned and interrogated for 7 hours. Authum Investment has taken over the assets of Reliance Commercial Finance Ltd. and Reliance Home Finance Ltd., both of which are under investigation. Ambani moved the Supreme Court in December after the Bombay High Court upheld the SBI's decision to file a case. The Reliance chief claimed certain documents, based on which the classification orders were passed, were not provided to him initially and were furnished only after six months. Reliance Communications, once a major telecom operator, has been undergoing insolvency proceedings after it ran into losses while accumulating a mountain of debt. Last week, Anil Ambani's son Jai Anmol Ambani was investigated by the CBI in connection with the Rs 228 crore fraud case involving Reliance Home Finance Ltd (RHFL). He was examined by the premier investigative agency for two days. The agency questioned him in connection with an alleged bank fraud case in which he has been booked along with Reliance Home Finance Ltd’s former CEO and ex-whole-time director, Ravindra Sudhalkar, and others. The CBI had registered the case on December 6, 2025, in connection with the alleged bank fraud involving Reliance Home Finance Ltd (RHFL), Jai Anmol Anil Ambani, Ravindra Sudhalkar, unknown persons and unknown public servants. The criminal case was registered against RHFL -- a company of the Reliance Anil Dhirubhai Ambani Group -- its promoters or directors, and unknown bank officials on the basis of a complaint by Union Bank of India. The complaint alleged criminal conspiracy, cheating and criminal misconduct, causing a wrongful loss of Rs 228.06 crore to Union Bank of India (ex-Andhra Bank).",
+      "url": "https://sambadenglish.com/economy/cbi-questions-anil-ambani-over-alleged-2929-crore-fraud-in-state-bank-of-india-case-11228804",
+      "urlToImage": "https://img-cdn.publive.online/fit-in/1280x960/sambad-english/media/media_files/2026/03/19/anil-ambani-2026-03-19-20-41-21.jpg",
+      "publishedAt": "2026-03-19 15:13:15",
+      "content": "New Delhi: The Central Bureau of Investigation (CBI) questioned Reliance Group Chairperson Anil Ambani on Thursday for 8 hours at a stretch in a complaint filed by the SBI related to an alleged Rs 2,929 crore fraud by Reliance Communications (RCom). Ambani has been asked to appear for further interrogation at the CBI office on Friday. The CBI registered a complaint after the SBI claimed a loss of Rs 2,929 crore resulting from alleged misappropriation by RCom and Anil Ambani by entering into transactions that violated the terms of loans extended by it. The public sector bank classified the accounts as fraud in June last year. This led to CBI searches at RCom's offices and Ambani's residence. Along with Ambani, Amit Dangi, the whole-time Director at Authum Investment & Infrastructure Ltd., was also summoned and interrogated for 7 hours. Authum Investment has taken over the assets of Reliance Commercial Finance Ltd. and Reliance Home Finance Ltd., both of which are under investigation. Am"
     },
     {
-      "source": {"id": "indian-express", "name": "Indian Express"},
-      "author": "National Desk",
-      "title": "SIM Swap Fraud Cases Rise 300% Across Indian Metro Cities",
-      "description": "Telecom regulator TRAI warns of dramatic increase in SIM swap fraud targeting bank accounts.",
-      "url": "https://example.com/sim-swap-india",
-      "publishedAt": "2026-03-19T05:00:00Z",
-      "content": "TRAI has issued an advisory warning of a 300% increase in SIM swap fraud cases across Delhi, Mumbai, Bengaluru, and Hyderabad. Fraudsters convince telecom customer care to issue a duplicate SIM, effectively hijacking the victim's phone number. Once they control the number, they intercept OTPs to drain bank accounts. TRAI advises setting a SIM lock PIN and immediately contacting your telecom provider if your phone loses network unexpectedly."
+      "source": {
+        "id": "insidesport_in",
+        "name": "Inside Sport India"
+      },
+      "author": "ansh athani",
+      "title": "IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now",
+      "description": "Only 1 player has been officially ruled out of the IPL 2026 but several are either injured, in recovery or unconfirmed to play. The post IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now appeared first on Inside Sport India .",
+      "url": "https://www.insidesport.in/cricket/ipl-2026-injury-list-rcb-kkr-lsg-srh-in-trouble-no-worries-for-csk-pbks/",
+      "urlToImage": "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2025/11/Josh-Hazlewood-Australia.webp",
+      "publishedAt": "2026-03-19 16:11:56",
+      "content": "Only 1 player has been officially ruled out of the IPL 2026 but several are either injured, in recovery or unconfirmed to play. The post IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now appeared first on Inside Sport India ."
     },
     {
-      "source": {"id": "ndtv", "name": "NDTV"},
-      "author": "Weather Desk",
-      "title": "Heavy Rain Expected Across Karnataka This Weekend",
-      "description": "IMD issues yellow alert for Bengaluru and surrounding districts.",
-      "url": "https://example.com/rain-karnataka",
-      "publishedAt": "2026-03-19T08:00:00Z",
-      "content": "The India Meteorological Department has issued a yellow alert for Bengaluru and surrounding districts due to expected heavy rainfall this weekend. Residents in low-lying areas are advised to be cautious. Waterlogging is expected in parts of Majestic and Silk Board junction areas."
+      "source": {
+        "id": "siasat",
+        "name": "Siasat.com"
+      },
+      "author": "news desk",
+      "title": "Three held for transporting 105 kg ganja from AP to Telangana",
+      "description": "Hyderabad: Telangana Police arrested three people and seized 105.54 kg ganja worth Rs 52 lakh at Julurupadu mandal headquarters in Bhadradri Kothagudem district on Thursday, March 19. Acting on credible intelligence that ganja was being transported in vehicles, the Julurupadu police and the Central Crime Station (CCS) personnel conducted a joint inspection, resulting in the ... Get the latest updates in Hyderabad City News , Technology , Entertainment , Sports , Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS .",
+      "url": "https://www.siasat.com/three-held-for-transporting-105-kg-ganja-from-ap-to-telangana-3437784/",
+      "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2026/03/Ganja-seized.jpg",
+      "publishedAt": "2026-03-19 15:30:31",
+      "content": "Hyderabad: Telangana Police arrested three people and seized 105.54 kg ganja worth Rs 52 lakh at Julurupadu mandal headquarters in Bhadradri Kothagudem district on Thursday, March 19. Acting on credible intelligence that ganja was being transported in vehicles, the Julurupadu police and the Central Crime Station (CCS) personnel conducted a joint inspection, resulting in the ... Get the latest updates in Hyderabad City News , Technology , Entertainment , Sports , Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS ."
     },
     {
-      "source": {"id": "the-times-of-india", "name": "Times of India"},
-      "author": "Delhi Bureau",
-      "title": "Chain Snatching Incidents Spike in South Delhi Neighbourhoods",
-      "description": "Police report 15 chain snatching cases in the past week in South Delhi residential areas.",
-      "url": "https://example.com/chain-snatching-delhi",
-      "publishedAt": "2026-03-17T19:00:00Z",
-      "content": "South Delhi has seen a worrying spike in chain snatching incidents with 15 cases reported in the past week across Greater Kailash, Saket, and Hauz Khas areas. Most incidents occurred during early morning walks or evening hours. The perpetrators operate on motorcycles. Delhi Police have increased patrolling and advise residents to avoid wearing expensive jewelry during walks and stay alert in isolated areas."
+      "source": {
+        "id": "siasat",
+        "name": "Siasat.com"
+      },
+      "author": "news desk",
+      "title": "Roads closed in Hyderabad’s Old City for Jummat-ul-Wida, advisory issued",
+      "description": "Hyderabad: In view of Jummat-ul-Wida prayers being held at Mecca Masjid, Charminar on March 20, multiple roads will be closed off in the Old City area. Hyderabad police have issued an advisory informing of traffic diversions and routes to be avoided in this regard. Main roads from Charminar towards Madina, Murgi Chowk, and Shalibanda will ... Get the latest updates in Hyderabad City News , Technology , Entertainment , Sports , Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS .",
+      "url": "https://www.siasat.com/roads-closed-in-hyderabads-old-city-for-jummat-ul-wida-advisory-issued-3437789/",
+      "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2026/03/Traffic.jpg",
+      "publishedAt": "2026-03-19 15:42:59",
+      "content": "Hyderabad: In view of Jummat-ul-Wida prayers being held at Mecca Masjid, Charminar on March 20, multiple roads will be closed off in the Old City area. Hyderabad police have issued an advisory informing of traffic diversions and routes to be avoided in this regard. Main roads from Charminar towards Madina, Murgi Chowk, and Shalibanda will ... Get the latest updates in Hyderabad City News , Technology , Entertainment , Sports , Politics and Top Stories on WhatsApp & Telegram by subscribing to our channels. You can also download our app for Android and iOS ."
     },
     {
-      "source": {"id": "deccan-herald", "name": "Deccan Herald"},
-      "author": "Recipe Corner",
-      "title": "Bengaluru's Best New Cafes: A Food Lover's Guide for 2026",
-      "description": "Exploring the newest cafe openings in Bengaluru's thriving food scene.",
-      "url": "https://example.com/bengaluru-cafes",
-      "publishedAt": "2026-03-18T12:00:00Z",
-      "content": "Bengaluru's cafe scene continues to boom in 2026 with exciting new openings across Indiranagar, Koramangala, and JP Nagar. From specialty coffee roasters to artisan bakeries, we round up the must-visit spots for food lovers. The trend towards sustainable, locally-sourced ingredients continues to define the city's food culture."
+      "source": {
+        "id": "thehindu",
+        "name": "The Hindu"
+      },
+      "author": "the hindu bureau",
+      "title": "B.Sc student ends life allegedly over pet cat’s death",
+      "description": "B.Sc student in Hyderabad allegedly ends life after struggling to cope with sudden death of her beloved pet cat.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/bsc-student-ends-life-allegedly-over-pet-cats-death/article70761868.ece",
+      "urlToImage": "https://www.thehindu.com/theme/images/og-image.png",
+      "publishedAt": "2026-03-19 14:37:51",
+      "content": "B.Sc student in Hyderabad allegedly ends life after struggling to cope with sudden death of her beloved pet cat."
+    },
+    {
+      "source": {
+        "id": "news18",
+        "name": "News 18"
+      },
+      "author": "yatamanyu narain",
+      "title": "UK07 Rider Anurag Dobhal Recovering At Friend’s Farmhouse After Suicide Attempt, Wife Absent: Report",
+      "description": "YouTuber Anurag Dobhal aka UK07 Rider is recovering at a friend’s farmhouse after his suicide attempt, reports say his wife is not with him.",
+      "url": "https://www.news18.com/movies/television/uk07-rider-anurag-dobhal-recovering-at-friends-farmhouse-after-suicide-attempt-wife-absent-report-ws-kl-9987086.html",
+      "urlToImage": "https://images.news18.com/ibnlive/uploads/2026/03/Anurag-Dobhal-2026-03-27c13dfe2ec690443f6d94f674d7a81b-1200x800.jpg",
+      "publishedAt": "2026-03-19 14:27:45",
+      "content": "YouTuber Anurag Dobhal aka UK07 Rider is recovering at a friend’s farmhouse after his suicide attempt, reports say his wife is not with him."
+    },
+    {
+      "source": {
+        "id": "insidesport_in",
+        "name": "Inside Sport India"
+      },
+      "author": "ansh athani",
+      "title": "IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now",
+      "description": "Only 1 player has been officially ruled out of the IPL 2026 but several are either injured, in recovery or unconfirmed to play. The post IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now appeared first on Inside Sport India .",
+      "url": "https://www.insidesport.in/cricket/ipl-2026-injury-list-rcb-kkr-lsg-srh-in-trouble-no-worries-for-csk-pbks/",
+      "urlToImage": "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2025/11/Josh-Hazlewood-Australia.webp",
+      "publishedAt": "2026-03-19 16:11:56",
+      "content": "Only 1 player has been officially ruled out of the IPL 2026 but several are either injured, in recovery or unconfirmed to play. The post IPL 2026 injury list: Toll mounting, RCB & KKR worst affected for now appeared first on Inside Sport India ."
+    },
+    {
+      "source": {
+        "id": "toi",
+        "name": "The Times Of India"
+      },
+      "author": "anushka juliet",
+      "title": "Tamil Nadu assembly election: 32 habitual offenders arrested in Coimbatore",
+      "description": "Tamil Nadu assembly election: 32 habitual offenders arrested in Coimbatore",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/tamil-nadu-assembly-election-32-habitual-offenders-arrested-in-coimbatore/articleshow/129683303.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-129683299/129683299.jpg",
+      "publishedAt": "2026-03-19 16:02:42",
+      "content": "Tamil Nadu assembly election: 32 habitual offenders arrested in Coimbatore"
+    },
+    {
+      "source": {
+        "id": "thehindu",
+        "name": "The Hindu"
+      },
+      "author": "d suresh kumar",
+      "title": "Watch: Thoothukudi murder case: Did the system fail a 17-year-old? | Focus Tamil Nadu",
+      "description": "A 17-year-old school girl from Kulathur in Thoothukudi district was found murdered hours after going missing, raising serious questions about police response and delay in registering the complaint. This disturbing Tamil Nadu case highlights alleged police lapses, including jurisdiction issues and insensitive assumptions, sparking protests and a probe into possible systemic failure.",
+      "url": "https://www.thehindu.com/videos/shows/watch-thoothukudi-murder-case-did-the-system-fail-a-17-year-old-focus-tamil-nadu/article70762555.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/3im9oe/article70762545.ece/alternates/FREE_1200/Murder%20case%20Did%20the%20system%20fail%20a%2017-Year-Old.png",
+      "publishedAt": "2026-03-19 14:57:55",
+      "content": "A 17-year-old school girl from Kulathur in Thoothukudi district was found murdered hours after going missing, raising serious questions about police response and delay in registering the complaint. This disturbing Tamil Nadu case highlights alleged police lapses, including jurisdiction issues and insensitive assumptions, sparking protests and a probe into possible systemic failure."
+    },
+    {
+      "source": {
+        "id": "toi",
+        "name": "The Times Of India"
+      },
+      "author": "tnn",
+      "title": "16 kg of ganja seized near Namakkal; six arrested",
+      "description": "16 kg of ganja seized near Namakkal; six arrested",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/16-kg-of-ganja-seized-near-namakkal-six-arrested/articleshow/129680146.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/resizemode-72,width-1280,height-720,msid-129680088/129680088.jpg",
+      "publishedAt": "2026-03-19 12:47:48",
+      "content": "16 kg of ganja seized near Namakkal; six arrested"
+    },
+    {
+      "source": {
+        "id": "latestly",
+        "name": "Latestly"
+      },
+      "author": "ani",
+      "title": "Tamil Nadu Assembly Elections 2026: Flying Squad, Static Surveillance Teams Intensify Checks on National Highways",
+      "description": "Following the announcement of the 2026 Assembly election schedule, election officials and law enforcement agencies have launched a massive surveillance operation across Tamil Nadu. Flying squads and static surveillance teams have significantly intensified vehicle inspections on major national highways to ensure strict adherence to the Model Code of Conduct (MCC).",
+      "url": "https://www.latestly.com/agency-news/india-news-tamil-nadu-assembly-polls-flying-squad-static-surveillance-teams-intensify-checks-on-national-highways-7360199.html",
+      "urlToImage": "https://st1.latestly.com/wp-content/uploads/2026/03/2-199220060-7.jpg",
+      "publishedAt": "2026-03-19 10:25:35",
+      "content": "Following the announcement of the 2026 Assembly election schedule, election officials and law enforcement agencies have launched a massive surveillance operation across Tamil Nadu. Flying squads and static surveillance teams have significantly intensified vehicle inspections on major national highways to ensure strict adherence to the Model Code of Conduct (MCC)."
+    },
+    {
+      "source": {
+        "id": "outlookindia",
+        "name": "Outlook"
+      },
+      "author": "outlook entertainment desk",
+      "title": "'Dhurandhar 2 Shows Were Cancelled At Around 500 Theatres': Gaiety Galaxy Owner Blasts Makers For Not Giving KDM On Time",
+      "description": "Dhurandhar 2 paid previews cancelled: A total of six shows were cancelled at Gaiety Galaxy and Maratha Mandir.",
+      "url": "https://www.outlookindia.com/art-entertainment/dhurandhar-2-gaiety-galaxy-owner-manoj-desai-blasts-makers-for-not-giving-kdm-on-time",
+      "urlToImage": "https://media.assettype.com/outlookindia/2026-03-10/9ggcblro/Screenshot-1947-12-19-at-08.58.46.png",
+      "publishedAt": "2026-03-19 11:38:00",
+      "content": "Dhurandhar 2 paid previews cancelled: A total of six shows were cancelled at Gaiety Galaxy and Maratha Mandir."
     }
   ]
 }
