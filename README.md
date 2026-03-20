@@ -7,7 +7,7 @@
 | **Candidate** | Dhairya Sharma |
 | **Scenario** | 3 — Community Safety & Digital Wellness |
 | **Time Spent** | ~6 hours |
-| **Video Demo** | (https://www.youtube.com/watch?v=2k0BRu21JY4) |
+| **Video Demo** | https://www.youtube.com/watch?v=2k0BRu21JY4 |
 
 ---
 
